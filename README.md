@@ -34,7 +34,7 @@ figuras/                          Figuras generadas
 ## Reproducir
 
 ```bash
-git clone https://github.com/julio481/ecg-filtrado-st.git
+git clone https://github.com/julieta-biomed/ecg-filtrado-st.git
 cd ecg-filtrado-st
 pip install -r requirements.txt
 jupyter lab notebooks/filtrado_st_ecg.ipynb
