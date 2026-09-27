@@ -65,4 +65,4 @@ MIT — ver [LICENSE](LICENSE).
 
 ---
 
-Artículo completo: [enlace a tu blog]
+Artículo completo: [en construcción]
